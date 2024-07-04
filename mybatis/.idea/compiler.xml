@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mybatus-002-crud" />
+        <module name="mybatis-001-introduction" />
+        <module name="mybatis-004-web" />
+        <module name="godbatis" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mybatis-0004-web" target="19" />
+      <module name="mybatis-04-web" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

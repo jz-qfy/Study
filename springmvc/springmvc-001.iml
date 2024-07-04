@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="web" name="Web2">
+      <configuration>
+        <webroots>
+          <root url="file://$MODULE_DIR$/springmvc-001/web" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/springmvc-001/src/main/java" />
+          <root url="file://$MODULE_DIR$/springmvc-001/src/main/resources" />
+          <root url="file://$MODULE_DIR$/springmvc-001/target/generated-sources/annotations" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+  </component>
+</module>
